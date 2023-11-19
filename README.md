@@ -11,7 +11,7 @@
 ### FrontEnd
 
 - Link do repositório:
- - https://github.com/CaioZanardo/FrontEnd-CP6
+  - https://github.com/CaioZanardo/FrontEnd-CP6
 
 ## Grupo
 
