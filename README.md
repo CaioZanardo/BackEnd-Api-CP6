@@ -2,10 +2,11 @@
 
 ### Backend
 
-- Desenvolido em Node.js utilizando Express um framework web que facilita a criação de rotas e manipulação de requisições HTTP. 
-- No Diretorio Raiz utilizar o comando "npm start" para subir o Backend.
+- Desenvolido em Node.js utilizando Express um framework web que facilita a criação de rotas e manipulação de requisições HTTP;
+- No Diretorio Raiz utilizar o comando "npm start" para subir o Backend;
+- /api é utilizado para o front consultar e expor no Browser estilizado.
 
-![PRINT!](startNode.png)
+![PRINT!](img/startNode.png)
 
 ### FrontEnd
 
